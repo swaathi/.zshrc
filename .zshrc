@@ -10,7 +10,7 @@ alias zed="/Applications/Zed.app/Contents/MacOS/cli"
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 # mise config
-source /Users/swaathi/.config/zsh/mise.zsh
+source ~/.config/zsh/mise.zsh
 
 # configure autosuggest to use tab for completions
 bindkey '^I'   autosuggest-accept
